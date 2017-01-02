@@ -1,0 +1,5 @@
+[maprtech]
+name=MapR Technologies, Inc.
+baseurl=http://master1.24frets.com/yum/base
+enabled=1
+gpgcheck=0

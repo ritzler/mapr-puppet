@@ -1,0 +1,17 @@
+{
+  "Gemfile": "36c376f27539ded2a321b2bd432e843b",
+  "README.md": "befd8922b49371ea1f7045f603cc19d1",
+  "Rakefile": "f4692851f7e9afcdb02721319e3f18b9",
+  "examples/init.pp": "9b8cbd9615bd844a33d9a2e0c1cd0535",
+  "files/getdisks.py": "ed9ef73409010949ed6cdcd8bd910108",
+  "files/maprtech.repo": "918103dec5a91c59c15cc68e1c50a3c6",
+  "manifests/clusters.pp": "8f9b773f4ea248f55ab3afb253171511",
+  "manifests/exec.pp": "05cf8a9e4d4a231207579b0f5c443ba8",
+  "manifests/init.pp": "092691cc8d1b3393c21a6846e96526e6",
+  "manifests/install.pp": "b56924e7c3d5c1eefed2b23e9b406057",
+  "manifests/packages.pp": "cbc40f48bf3366bd1fbdf7079f2282ad",
+  "metadata.json": "6a1eaa6d59a545384c4e68cb0328d7e8",
+  "spec/classes/init_spec.rb": "a8f3d6bf49f6b8737b99cc03c3f5f978",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "91cf7a70a10568943f1dde1f257c73ac"
+}

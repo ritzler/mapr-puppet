@@ -1,0 +1,8 @@
+classes:
+  - mapr::packages
+
+mapr_roles:
+  - data
+  - cldb
+  - zookeeper
+  - history

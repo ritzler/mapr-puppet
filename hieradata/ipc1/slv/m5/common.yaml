@@ -1,0 +1,41 @@
+mapr::clustername: ipc1slvm5
+
+mapr::packages::base:
+  - vim
+  - java
+
+mapr::cldbs:
+  - node1.24frets.com
+  - node2.24frets.com
+  - node3.24frets.com
+mapr::zks:
+  - node1.24frets.com
+  - node2.24frets.com
+  - node3.24frets.com
+
+mapr::roles:
+  data:
+    packages:
+      - mapr-nodemanager
+      - mapr-fileserver
+  cldb:
+    packages:
+      - mapr-cldb
+  zookeeper:
+    packages:
+      - mapr-zookeeper
+  web:
+    packages:
+      - mapr-webserver
+  nfs:
+    packages:
+      - mapr-nfs
+  gateway:
+    packages:
+      - mapr-gateway
+  history:
+    packages:
+      - mapr-historyserver
+  resourcemanager:
+    packages:
+      - mapr-resourcemanager
